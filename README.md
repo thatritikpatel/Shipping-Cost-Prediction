@@ -2,6 +2,12 @@
 
 This is a **Machine Learning** project that predicts the cost of shipment based on various features such as weight, destination, and shipment type. The project utilizes a full pipeline starting from data exploration, feature engineering, model training, to model deployment using **FastAPI** and a **Web UI** for user interaction.
 
+## Video Demo
+
+Here's a video demo of the project:
+
+https://github.com/user-attachments/assets/388f909e-18aa-4ab5-81f4-4c3e8f141bc2
+
 ## Table of Contents
 
 1. [Project Overview](#project-overview)
@@ -69,7 +75,8 @@ Shipping-Cost-Prediction/
 ├── README.md                 # Project documentation
 └── LICENSE                   # Project license (MIT)
 ```
-
+![](https://github.com/thatritikpatel/Shipping-Cost-Prediction/blob/main/flowchart/Data%20Ingestion%20Component.png)
+![](https://github.com/thatritikpatel/Shipping-Cost-Prediction/blob/main/flowchart/Data%20Transformation%20Component.png)
 ---
 
 ## Setup and Installation
@@ -313,3 +320,7 @@ We welcome contributions! If you have suggestions or bug fixes, feel free to for
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details."# Shipping-Cost-Prediction" 
+
+## Contact
+- Ritik Patel - [ritik.patel129@gmail.com]
+- Project Link: [https://github.com/thatritikpatel/Shipping-Cost-Prediction]
