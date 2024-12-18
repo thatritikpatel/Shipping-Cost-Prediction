@@ -75,8 +75,29 @@ Shipping-Cost-Prediction/
 ├── README.md                 # Project documentation
 └── LICENSE                   # Project license (MIT)
 ```
+
+## Flow Charts
+
 ![](https://github.com/thatritikpatel/Shipping-Cost-Prediction/blob/main/flowchart/Data%20Ingestion%20Component.png)
 ![](https://github.com/thatritikpatel/Shipping-Cost-Prediction/blob/main/flowchart/Data%20Transformation%20Component.png)
+![](https://github.com/thatritikpatel/Shipping-Cost-Prediction/blob/main/flowchart/Data%20Validation%20Component.png)
+![](https://github.com/thatritikpatel/Shipping-Cost-Prediction/blob/main/flowchart/Model%20Evaluation%20Component.png)
+![](https://github.com/thatritikpatel/Shipping-Cost-Prediction/blob/main/flowchart/Model%20Pusher%20Component.png)
+![](https://github.com/thatritikpatel/Shipping-Cost-Prediction/blob/main/flowchart/Model%20Trainer%20Component.png)
+![](https://github.com/thatritikpatel/Shipping-Cost-Prediction/blob/main/flowchart/model%20predictor.png)
+
+## Code Flow
+
+![](https://github.com/thatritikpatel/Shipping-Cost-Prediction/blob/main/codeflow/Data%20Ingestion%20Code%20Flow_2.png)
+![](https://github.com/thatritikpatel/Shipping-Cost-Prediction/blob/main/codeflow/DataTransformation%20Code%20Flow_2.png)
+![](https://github.com/thatritikpatel/Shipping-Cost-Prediction/blob/main/codeflow/DataValidation%20Code%20Flow_2.png)
+![](https://github.com/thatritikpatel/Shipping-Cost-Prediction/blob/main/codeflow/Model%20Evaluation%20Code%20Flow_2.png)
+![](https://github.com/thatritikpatel/Shipping-Cost-Prediction/blob/main/codeflow/Model%20predictor%20Code%20Flow.png)
+![](https://github.com/thatritikpatel/Shipping-Cost-Prediction/blob/main/codeflow/ModelPusher%20Code%20Flow_2.png)
+![](https://github.com/thatritikpatel/Shipping-Cost-Prediction/blob/main/codeflow/ModelTrainer%20Code%20Flow.png)
+![](https://github.com/thatritikpatel/Shipping-Cost-Prediction/blob/main/codeflow/Training%20pipeline%20cofde%20flow_2.png)
+![](https://github.com/thatritikpatel/Shipping-Cost-Prediction/blob/main/videos/Shipping%20Cost%20Prediction.mp4)
+
 ---
 
 ## Setup and Installation
